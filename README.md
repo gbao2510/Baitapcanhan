@@ -176,7 +176,6 @@ Phần mở rộng đã làm: **tô màu tin nhắn của mình / của người
 - **Bài 2:** một ảnh chụp client hiển thị ít nhất 3 server (nên chụp thêm một ảnh có dòng `Offline`).
 - **Bài 3:** một ảnh chụp ít nhất hai client đang trao đổi tin nhắn.
 
-Gợi ý: tạo thư mục `AnhChup` trong project, đặt ảnh vào đó rồi commit cùng mã nguồn (xem mục 7.7).
 
 ### Bài 2 — Cách xử lý cập nhật GUI từ luồng nhận dữ liệu
 
