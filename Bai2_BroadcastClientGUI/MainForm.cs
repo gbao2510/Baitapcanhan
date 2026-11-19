@@ -276,10 +276,6 @@ namespace Bai2_BroadcastClientGUI
             {
                 // form dang dong, bo qua
             }
-            catch (ObjectDisposedException)
-            {
-                // form da bi huy, bo qua
-            }
         }
 
         // ================= XU LY TREN LUONG GIAO DIEN =================

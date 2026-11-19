@@ -343,10 +343,6 @@ namespace Bai3_MulticastChatGUI
             {
                 // form dang dong, bo qua
             }
-            catch (ObjectDisposedException)
-            {
-                // form da bi huy, bo qua
-            }
         }
 
         // ================= XU LY TREN LUONG GIAO DIEN =================
