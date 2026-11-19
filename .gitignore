@@ -1,0 +1,26 @@
+# Thu muc build
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.rsuser
+
+# Visual Studio Code
+.vscode/
+
+# Ket qua test, log
+*.log
+TestResults/
+
+# Windows
+Thumbs.db
+Desktop.ini
